@@ -12,7 +12,7 @@ Link to Kaggle dataset:<br>
 https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset
 <br><br>
 
-### Project overview:<br><br>
+### Notebook overview:<br><br>
 
 1. Setup and introduction<br>
 First, we import all necessary libraries and display some aspects of the raw data.<br><br>
